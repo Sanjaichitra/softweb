@@ -1185,9 +1185,10 @@ contact.html
 
 
 ## OUTPUT:
-![Alt text](<Screenshot 1.png>)
-![Alt text](<Screenshot 2.png>)
-![Alt text](<Screenshot 3.png>)
-![Alt text](<Screenshot 4.png>)
+![Screenshot 1](https://github.com/Sanjaichitra/softweb/assets/144870518/3d3058fa-f119-4297-8f44-59dd131f5c88)
+![Screenshot 2](https://github.com/Sanjaichitra/softweb/assets/144870518/519762b9-c631-4ed1-86e4-6f6b1b97b4bd)
+![Screenshot 3](https://github.com/Sanjaichitra/softweb/assets/144870518/4a2ad451-54b0-42e7-9c05-0b150708c7e2)
+![Screenshot 4](https://github.com/Sanjaichitra/softweb/assets/144870518/01736919-bce8-40f9-a3bd-9088d53bbd7c)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
